@@ -1,0 +1,25 @@
+.skillContaine{
+    height: 450px;
+}
+.skill{
+    margin: 10 10;
+    color: blue;
+    justify-content: center;
+    text-align: center;
+}
+.skills__list {
+    max-width: 450px;
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+}
+  
+.skills__list-item {
+    margin: 0.5em;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20%;
+}

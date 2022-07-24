@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    height: 8em;
+    margin: auto;
+    justify-content: space-between;
+    background-color: rgb(225, 240, 247);
+    padding: 0 10% 0 10%;
+}
+
+.menuItems {
+    display: flex;
+    align-items: center;
+}
+
+.navList {
+    margin-right: 1.5em;
+    display: flex;
+    list-style-type: none;
+}
+
+.navList-item{
+    margin-left: 1.5em;
+    text-decoration: none;
+}
+
+.home{
+    list-style-type: none;
+}
